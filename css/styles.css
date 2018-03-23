@@ -1,0 +1,12 @@
+#jumbotron{
+  background-image: url("../images/landing.jpg");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding-left: 10%;
+  padding right: 10%;
+
+}
+.image{
+  float: left;
+}
