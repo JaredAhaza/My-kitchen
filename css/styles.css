@@ -11,3 +11,9 @@
   background-image: url("../images/foodsBg.jpg");
 
 }
+.col-md-8{
+  text-align: center;
+}
+#well{
+  background-image: url("../images/subscribe.jpg");
+}
