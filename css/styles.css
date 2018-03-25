@@ -3,8 +3,8 @@
   background-size: cover;
   background-position: center;
   text-align: center;
-  padding-left: 10%;
-  padding right: 10%;
+  padding-left: 20%;
+  padding right: 20%;
 
 }
 .jumbotron{
@@ -17,5 +17,5 @@
 #well{
   background-image: url("../images/subscribe.jpg");
   text-align: center;
-  
+
 }
